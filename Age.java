@@ -5,7 +5,7 @@ public class Age {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter your name: ");
         String name=sc.next();
-        System.out.println("Enter your age: ");
+        System.out.println("Enter your agesa: ");
         int age=sc.nextInt();
         if(age>=18)
         {
